@@ -150,7 +150,7 @@ public class Fraction {
         }
 
         // You can use intermediateResult2 if you want to get integer and fractional part together
-        System.out.println(intermediateResult2);
+
         String[] resultArray = intermediateResult2.toString().split("\\.");
         finalResult = resultArray[1].substring(0,5);
 

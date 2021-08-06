@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Number Base Converter/task/out/
+/Number Base Converter/task/out/production/classes/
+/Topics/BigDecimal/Round and power/out/
+/Topics/BigDecimal/Round and power/out/production/classes/
+/Topics/BigInteger/Comparing numbers/out/
+/Topics/BigInteger/Comparing numbers/out/production/classes/
+/Topics/BigInteger/The smallest value/out/
+/Topics/BigInteger/The smallest value/out/production/classes/
